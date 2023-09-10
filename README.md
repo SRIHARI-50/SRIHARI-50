@@ -93,6 +93,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SRIHARI-50&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+### Coding profiles: 
+
+<p align="left">
+<a href="https://leetcode.com/SRIHARI-50/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/srihari_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Codechef" height="30" width="40" /></a>
+<a href="https://www.credly.com/users/srihari-m.2e012fc6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Credly" height="30" width="40" /></a>
+</p>
+
 ###
 
 <div align="center">
