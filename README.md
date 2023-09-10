@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
+
 </div>
 
 ###
@@ -21,6 +22,10 @@
 <h1 align="center">hey there 👋!!! This is Srihari</h1>
 
 ###
+<div align="center">
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 <h3 align="left">👩‍💻  About Me</h3>
 
@@ -29,8 +34,6 @@
 <p align="left">Veteran Software Engineer skilled at managing ongoing technical projects and designing system advancement frameworks. Dedicated to maximizing budgetary spending to produce impressive returns on investment. Keen to lead company-wide operational and planning efforts. <br><br>I'm a computer science engineering graduate 👨🏻‍💼 from PSG Institute of Technology and Applied Research🌆.<br><br>Team Lead @KEBS Product Team | Certified MEAN Stack Developer | Lead @Software Development Cell | Office Bearer @PSGiTech Rotaract Club | Passionate UI/UX Designer | Novice in Drone Simulation</p>
 
 ###
-
-<img src="https://raw.githubusercontent.com/SRIHARI-50/SRIHARI-50/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -85,8 +88,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SRIHARI-50&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=SRIHARI-50&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SRIHARI-50&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  /> <br>
+  <img src="https://streak-stats.demolab.com?user=SRIHARI-50&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SRIHARI-50&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
