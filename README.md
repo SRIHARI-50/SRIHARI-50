@@ -19,7 +19,7 @@
 
 ###
 
-<h1 align="center">hey there 👋!!! This is Srihari</h1>
+<h1 align="center">Hey there 👋!!! This is Srihari</h1>
 
 ###
 <div align="center">
@@ -108,3 +108,4 @@
 </div>
 
 ###
+
