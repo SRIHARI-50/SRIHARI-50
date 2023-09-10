@@ -19,7 +19,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋!!! This is Srihari</h1>
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> !!! This is Srihari </h1>
 
 ###
 <div align="center">
