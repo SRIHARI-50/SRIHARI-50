@@ -32,7 +32,7 @@
 ###
 
 <p align="left">A professional aspirant specializing in the development and implementation of innovative web applications and software solutions. My expertise lies in both front end and back end technologies, such as JavaScript, Angular, Node.js , PHP and SQL. Well-known for my strong problem solving skills, attention to detail and commitment to excellence in software development. Experienced Team Lead and Web Dev Expert with MEAN Stack Certification, UI/UX Design Skills, and Leadership Roles. 
- <br><br>I'm a computer science engineering graduate 👨🏻‍💼 from PSG Institute of Technology and Applied Research🌆.<br><br>Team Lead @KEBS Product Team | Web Dev Lead @GDSC | Certified MEAN Stack Developer | Interactive UI/UX Designer | Lead @Software Development Cell of PSGiTech | Web Development Lead @Rotaract Club of PSGiTech | Novice in Drones.</p>
+ <br><br>I'm a computer science engineering graduate 👨🏻‍💼 from PSG Institute of Technology and Applied Research🌆.<br><br>Team Lead @KEBS Product Intern Team | Web Dev Lead @GDSC | Certified MEAN Stack Developer | Interactive UI/UX Designer | Lead @Software Development Cell of PSGiTech | Web Development Lead @Rotaract Club of PSGiTech | Novice in Drones.</p>
 
 ###
 
